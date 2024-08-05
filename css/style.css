@@ -20,7 +20,6 @@
 body {
     color: #666666;
     font-size: 15px;
-    font-family: 'Barlow', sans-serif;
     line-height: 1.80857;
 }
 
@@ -390,7 +389,6 @@ button:focus{
 
 .lbox-details h1{
 	font-size: 68px;
-	font-family: 'Barlow', sans-serif;
 	color: #ffffff;
 	position: relative;
 	z-index: 3;
@@ -410,7 +408,6 @@ button:focus{
 .lbox-details p strong{
 	color: #dd666c;
 	font-size: 40px;
-	font-family: 'Barlow', sans-serif;
 }
 .lbox-details a.btn{
 	background: #63c7bd;
@@ -440,7 +437,6 @@ button:focus{
 }
 .title-box h2{
 	font-size: 60px;
-	font-family: 'Barlow', sans-serif;
 	color: #222222;
 }
 .title-box h2 span{
@@ -449,7 +445,6 @@ button:focus{
 }
 .about-main-info h2{
 	font-size: 40px;
-	font-family: 'Barlow', sans-serif;
 }
 .about-main-info h2 span{
 	color: #dd666c;
@@ -531,7 +526,6 @@ button:focus{
 }
 
 .display-font{
-	font-family: 'Barlow', sans-serif;
 	font-size: 30px;
 	color: #222222;
 }
@@ -592,7 +586,6 @@ button:focus{
 	background-color: #f1f1f1;
 }
 .family-info h4{
-	font-family: 'Barlow', sans-serif;
 	font-size: 24px;
 }
 .family-info p{
